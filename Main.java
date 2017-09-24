@@ -1,8 +1,7 @@
-package partie;
+package main;
 
 import java.util.Scanner;
 
-import dictionnaire.Dictionnaire;
 
 public class Main {
 
