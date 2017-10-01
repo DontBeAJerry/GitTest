@@ -1,4 +1,4 @@
-# GitTest
+# GitTest : SCRABBLE
 
 Ce Git est une esquisse de notre projet d'Algorithme et Développement
 
